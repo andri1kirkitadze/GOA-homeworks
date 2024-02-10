@@ -1,0 +1,2 @@
+print("andria giorgadze, gio gagnidze , ")
+print("me vfiqrob rom goa aris sauketeso akademia da mand aris sauketeso adamianebi da bavshvebi romlebic arasdros ar daqcinian aramed dagexmarebian ganatlebis misagwerad shemogvierti goashi da miige ganatleba")
